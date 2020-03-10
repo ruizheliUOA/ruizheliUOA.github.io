@@ -18,6 +18,6 @@ Before came to Sheffield, I was a PhD candidate in [Department of Computing Scie
 Research
 ======
 
-My primary research interest is in Natural Language Processing and Natural Language Generation.
+My primary research interest is in Natural Language Processing, Natural Language Generation and Machine Learning.
 
 
