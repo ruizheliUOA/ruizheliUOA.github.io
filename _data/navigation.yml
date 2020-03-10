@@ -1,0 +1,18 @@
+# main links links
+main:
+   
+        
+  - title: "CV"
+    url: /cv/
+  
+  - title: "Reading Group"
+    url: /reading/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+    
+
