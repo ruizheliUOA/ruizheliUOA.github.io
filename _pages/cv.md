@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV (Pdf file).]({{ site.url }}/files/CV_english_new.pdf)
+[My CV (Pdf file).]({{ site.url }}/files/CV_Li.pdf)
 
 
 ### Education
