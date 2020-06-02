@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+**2020**
+1. Li X., Lin C., **Li, R.**, Wang C. and Guerin F. Latent Space Factorisation and Manipulation via Matrix Subspace Projection, The 37th International Conference on Machine Learning (**ICML**), Vienna, 2020.
+
 **2019**
 
 1. **Li R.**, Lin C., Collinson M., Li X. and Chen G. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification, The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**), Hong Kong, China, 2019.
