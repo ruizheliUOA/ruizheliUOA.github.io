@@ -20,4 +20,10 @@ Research
 
 My primary research interest is in Natural Language Processing, Natural Language Generation and Machine Learning.
 
+Academic Service
+======
+
+Program Committee: EMNLP (2020)
+Journal Reviewer: Neurocomputing (Elsevier)
+
 
