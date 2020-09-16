@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 **2020**
-1. Li X., Lin C., **Li, R.**, Wang C. and Guerin F. Latent Space Factorisation and Manipulation via Matrix Subspace Projection, The 37th International Conference on Machine Learning (**ICML**), Vienna, 2020.
+1. Li X., Chen G., **Li R.** and Lin C. A Dual-generator Network for Text Style Transfer, Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020.
+2. Li X., Lin C., **Li R.**, Wang C. and Guerin F. Latent Space Factorisation and Manipulation via Matrix Subspace Projection, The 37th International Conference on Machine Learning (**ICML**), Vienna, 2020.
 
 **2019**
 
