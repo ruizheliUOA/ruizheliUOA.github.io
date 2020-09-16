@@ -9,28 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV (Pdf file).]({{ site.url }}/files/CV_Li.pdf)
+[My CV (Pdf file).]({{ site.url }}/files/CV_RZ.pdf)
 
 
 ### Education
 
 - Ph.D  in Computer Science, [the University of Sheffield](https://www.sheffield.ac.uk/), 2020 - Present
-- Ph.D  in Computing Science, [University of Aberdeen](https://www.abdn.ac.uk), 2017 - 2019
+- Ph.D  in Computing Science, [University of Aberdeen](https://www.abdn.ac.uk), 2017 - 2019 (withdrew and moved to Sheffield)
 - BEng. in Electronic Information & Engineering, [Shanghai University](http://www.shu.edu.cn), 2013 - 2017
 
+### Working experience
+- **Research Assistant** at the Supporting Security Policy with Effective Digital Intervention (SSPEDI) project, Department of Computing Science, University of Aberdeen, 2020 - Present
 
-### Work experience
+### Demonstrating
 
-- Jan. 2018 - Mar. 2018: Demonstrator
-  - Department of Computing Science, University of Aberdeen
-  - Duties included: CS551G Data Mining and Visualisation
-
-- Sep. 2017 - Dec. 2017: Demonstrator
-  - Department of Computing Science, University of Aberdeen
-  - Duties included: CS4040 Research Methods, CS5062 Machine Learning, CS4025 Natural Language Processing
-
-- Oct. 2014 - Jul. 2016: Undergraduate Research Assistant
-  - School of Communication & Information Engineering, Shanghai University
+- Demonstrator for CS551G Data Mining and Visualisation at University of Aberdeen
+- Demonstrator for CS5062 Machine Learning at University of Aberdeen
+- Demonstrator for CS4025 Natural Language Processing at University of Aberdeen
+- Demonstrator for CS4040 Research Methods at University of Aberdeen
+- Demonstrator for CS3518 Language and Computability at University of Aberdeen
   
   
 ### Honors & Awards
