@@ -18,8 +18,6 @@ redirect_from:
 - Ph.D  in Computing Science, [University of Aberdeen](https://www.abdn.ac.uk), 2017 - 2019 (withdrew and moved to Sheffield)
 - BEng. in Electronic Information & Engineering, [Shanghai University](http://www.shu.edu.cn), 2013 - 2017
 
-### Working experience
-- **Research Assistant** at the Supporting Security Policy with Effective Digital Intervention (SSPEDI) project, Department of Computing Science, University of Aberdeen, 2020 - Present
 
 ### Demonstrating
 
