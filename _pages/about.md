@@ -23,7 +23,7 @@ My primary research interest is in Natural Language Processing, Natural Language
 Academic Service
 ======
 
-Program Committee: EMNLP (2020), EACL (2020)
+Program Committee: EMNLP (2020), EACL (2020), NAACL(2021)
 
 Journal Reviewer: Neurocomputing (Elsevier)
 
