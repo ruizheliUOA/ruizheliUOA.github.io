@@ -13,13 +13,17 @@ author_profile: true
 
 **2020**
 1. **Li R.**, Li X., Chen G. and Lin C. Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation, The 28th International Conference on Computational Linguistics (**COLING**), 2020.
-2. Li X., Chen G., Lin C. and **Li R.** A Dual-generator Network for Text Style Transfer, Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020.
-3. Li X., Lin C., **Li R.**, Wang C. and Guerin F. Latent Space Factorisation and Manipulation via Matrix Subspace Projection, The 37th International Conference on Machine Learning (**ICML**), Vienna, 2020.
+2. Li X., Chen G., Lin C. and **Li R.** A Dual-generator Network for Text Style Transfer, Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020.<br/>
+[\[pdf\]](https://arxiv.org/pdf/2010.14557.pdf)<br />
+3. Li X., Lin C., **Li R.**, Wang C. and Guerin F. Latent Space Factorisation and Manipulation via Matrix Subspace Projection, The 37th International Conference on Machine Learning (**ICML**), Vienna, 2020.<br/>
+[\[pdf\]](https://arxiv.org/pdf/1907.12385.pdf)<br />
 
 **2019**
 
-1. **Li R.**, Lin C., Collinson M., Li X. and Chen G. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification, The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**), Hong Kong, China, 2019.
-2. **Li R.**, Li X.,  Lin C, Collinson M. and Mao R. A Stable Variational Autoencoder for Text Modelling, The 12th International Conference on Natural Language Generation (**INLG**), Tokyo, 2019.
+1. **Li R.**, Lin C., Collinson M., Li X. and Chen G. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification, The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**), Hong Kong, China, 2019.<br/>
+[\[pdf\]](https://www.aclweb.org/anthology/K19-1036.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/K19-1036.bib)<br />
+2. **Li R.**, Li X.,  Lin C, Collinson M. and Mao R. A Stable Variational Autoencoder for Text Modelling, The 12th International Conference on Natural Language Generation (**INLG**), Tokyo, 2019.<br/>
+[\[pdf\]](https://www.aclweb.org/anthology/W19-8673.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8673.bib)<br />
 
 **2018**
 
