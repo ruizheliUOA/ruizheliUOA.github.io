@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 **2020**
-1. **Li R.**, Li X., Chen G. and Lin C. Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation, The 28th International Conference on Computational Linguistics (**COLING**), 2020.
+1. **Li R.**, Li X., Chen G. and Lin C. Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation, The 28th International Conference on Computational Linguistics (**COLING**), 2020.<br />
 [\[pdf\]](https://arxiv.org/pdf/2011.01136.pdf)<br />
 2. Li X., Chen G., Lin C. and **Li R.** DGST: a Dual-Generator Network for Text Style Transfer, Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020.<br/>
 [\[pdf\]](https://arxiv.org/pdf/2010.14557.pdf)<br />
